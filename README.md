@@ -22,10 +22,7 @@ Import symbols in your excel sheets
     ```  HAVE  ```
     ```  ====  ```
     ```    ```
-    ```     I pasted the text in the ops question into excel, all symbols were honored.  ```
-    ```     I substituted 'G' and 'L' for the symbols here because I doubt symbols are honored  ```
-    ```     across pdf, rtf, csv ... forms of this text. My text documentaion  ```
-    ```     should be universal.  ```
+    ```     https://www.dropbox.com/s/cmsa5p48k3fwk9x/messy.xlsx?dl=0  ```
     ```    ```
     ```    ```
     ```     d:/xls/messy.xlsx  ```
